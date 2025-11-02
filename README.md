@@ -39,23 +39,28 @@ Designed an interactive 3-page report in Power BI, with each page serving a spec
 * **Product & Reviews:** An analysis of top-performing categories, AOV, and the correlation between review scores and sales.
 
 **6. Insights & Recommendations:**
+
 * **Insight 1:** Strong Core Performance The business is robust, with $15.84M in revenue generated from 113K orders across 74 product categories. The customer experience is generally positive, with a high average review score of 4.09 out of 5.
 
-Insight 2: Geographic Concentration The state of São Paulo (SP) is the undisputed core of the business, accounting for 42K orders (37% of the total). The city of sao paulo alone generated $3.18M in revenue, representing over 20% of all company revenue.
-Recommendation: Focus marketing and logistics efforts in this key region. Explore targeted campaigns to expand in the next largest markets, Rio de Janeiro (12K orders) and MG (12K orders).
+* **Insight 2:** Geographic Concentration The state of São Paulo (SP) is the undisputed core of the business, accounting for 42K orders (37% of the total). The city of sao paulo alone generated $3.18M in revenue, representing over 20% of all company revenue.
+  
+* **Recommendation:** Focus marketing and logistics efforts in this key region. Explore targeted campaigns to expand in the next largest markets, Rio de Janeiro (12K orders) and MG (12K orders).
 
-Insight 3: Customer Payment Preferences Credit cards are the dominant payment method, accounting for 78.34% ($12.54M) of all sales value.
-Recommendation: Ensure the credit card payment process is seamless. Since Boleto (17.92%) is still a significant secondary option, this service must be maintained and reliable. The popularity of 1-installment payments ($5.91M) suggests customers prefer to pay upfront.
+* **Insight 3:** Customer Payment Preferences Credit cards are the dominant payment method, accounting for 78.34% ($12.54M) of all sales value.
+  
+* **Recommendation:** Ensure the credit card payment process is seamless. Since Boleto (17.92%) is still a significant secondary option, this service must be maintained and reliable. The popularity of 1-installment payments ($5.91M) suggests customers prefer to pay upfront.
 
-Insight 4: High Fulfillment Success The logistics operation is highly effective, with 96.48K orders (over 85%) successfully delivered. This high success rate builds customer trust and authenticity.
+* **Insight 4:** High Fulfillment Success The logistics operation is highly effective, with 96.48K orders (over 85%) successfully delivered. This high success rate builds customer trust and authenticity.
 
-Insight 5: Correlation Between Reviews & Sales The Average review_score by Month chart shows significant dips below 4.0 in February (3.87), March (3.84), and November (3.91). These dips, especially in March and November, correlate with dips in the Total Revenue by Month chart.
-Recommendation: Investigate the root cause of poor reviews in these specific months (e.t., seasonal shipping delays, product stock issues) as improving customer satisfaction appears directly linked to increasing revenue.
+* **Insight 5:** Correlation Between Reviews & Sales The Average review_score by Month chart shows significant dips below 4.0 in February (3.87), March (3.84), and November (3.91). These dips, especially in March and November, correlate with dips in the Total Revenue by Month chart.
 
-Insight 6: High-Value vs. High-Volume Products There is a clear distinction between top-performing categories:
+* **Recommendation:** Investigate the root cause of poor reviews in these specific months (e.t., seasonal shipping delays, product stock issues) as improving customer satisfaction appears directly linked to increasing revenue.
+
+* **Insight 6:** High-Value vs. High-Volume Products There is a clear distinction between top-performing categories:
 High Revenue: health_beauty generates the most total revenue ($1.44M).
 High Value: computers has the highest Average Order Value ($1147) by a large margin (2x the next category).
-Recommendation: This means that while health_beauty drives a high volume of sales, computers brings in the highest-value customers. Marketing strategies should be tailored for both: a volume-based strategy for health_beauty and a high-touch, value-focused strategy for computers.
+
+* **Recommendation:** This means that while health_beauty drives a high volume of sales, computers brings in the highest-value customers. Marketing strategies should be tailored for both: a volume-based strategy for health_beauty and a high-touch, value-focused strategy for computers.
 
 ### 3. Tools Used
 * **Python:** (Pandas) for data cleaning and transformation.
