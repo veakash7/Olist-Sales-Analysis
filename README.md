@@ -39,7 +39,7 @@ Designed an interactive 3-page report in Power BI, with each page serving a spec
 * **Product & Reviews:** An analysis of top-performing categories, AOV, and the correlation between review scores and sales.
 
 **6. Insights & Recommendations:**
-Insight 1: Strong Core Performance The business is robust, with $15.84M in revenue generated from 113K orders across 74 product categories. The customer experience is generally positive, with a high average review score of 4.09 out of 5.
+* **Insight 1:** Strong Core Performance The business is robust, with $15.84M in revenue generated from 113K orders across 74 product categories. The customer experience is generally positive, with a high average review score of 4.09 out of 5.
 
 Insight 2: Geographic Concentration The state of São Paulo (SP) is the undisputed core of the business, accounting for 42K orders (37% of the total). The city of sao paulo alone generated $3.18M in revenue, representing over 20% of all company revenue.
 Recommendation: Focus marketing and logistics efforts in this key region. Explore targeted campaigns to expand in the next largest markets, Rio de Janeiro (12K orders) and MG (12K orders).
